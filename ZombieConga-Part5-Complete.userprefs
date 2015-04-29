@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\smController1.cs">
+    <Files>
+      <File FileName="Assets\Scripts\StartButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StartGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CatController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ZombieController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\smallZombieController.cs" Line="1" Column="1" />
+      <File FileName="Assets\smController1.cs" Line="4" Column="45" />
+      <File FileName="Assets\smContraller2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RestartButton.cs" Line="18" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\smContraller2.cs">
+    <Files>
+      <File FileName="..\..\Unity\ZombieConga-Part5-Complete\ZombieConga-Part5-Complete\Assets\Scripts\StartButton.cs" Line="1" Column="1" />
+      <File FileName="..\..\Unity\ZombieConga-Part5-Complete\ZombieConga-Part5-Complete\Assets\Scripts\StartGame.cs" Line="1" Column="1" />
+      <File FileName="..\..\Unity\ZombieConga-Part5-Complete\ZombieConga-Part5-Complete\Assets\Scripts\CatController.cs" Line="1" Column="1" />
+      <File FileName="..\..\Unity\ZombieConga-Part5-Complete\ZombieConga-Part5-Complete\Assets\Scripts\EnemyController.cs" Line="1" Column="1" />
+      <File FileName="..\..\Unity\ZombieConga-Part5-Complete\ZombieConga-Part5-Complete\Assets\Scripts\ZombieController.cs" Line="1" Column="1" />
+      <File FileName="..\..\Unity\ZombieConga-Part5-Complete\ZombieConga-Part5-Complete\Assets\Scripts\smallZombieController.cs" Line="1" Column="1" />
+      <File FileName="..\..\Unity\ZombieConga-Part5-Complete\ZombieConga-Part5-Complete\Assets\smController1.cs" Line="4" Column="45" />
+      <File FileName="..\..\Unity\ZombieConga-Part5-Complete\ZombieConga-Part5-Complete\Assets\smContraller2.cs" Line="1" Column="1" />
+      <File FileName="..\..\Unity\ZombieConga-Part5-Complete\ZombieConga-Part5-Complete\Assets\Scripts\RestartButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\smContraller2.cs" Line="5" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

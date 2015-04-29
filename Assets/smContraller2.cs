@@ -1,6 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/// <summary>
+/// Add a summary here
+/// </summary>
+
 public class smContraller2 : MonoBehaviour {
 
 	private Vector3 moveDirection;

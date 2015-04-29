@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+//
+/// <summary>
+/// Add A summary in this file. This is the second time to add comments.
+/// </summary>
 public class CatController : MonoBehaviour {
 
 	private Transform followTarget;
